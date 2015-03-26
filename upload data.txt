@@ -1,0 +1,87 @@
+{
+  "courses": [
+    {
+      "id": 2,
+      "shortname": "protopic",
+      "codehandins": [
+        {
+          "id": 12,
+          "contextid": 39,
+          "assignname": "apples",
+          "intro": "\u003cp\u003efish description\u003cbr\u003e\u003c/p\u003e",
+          "duedate": "1424361600",
+          "funcpercent": 100,
+          "spectestonly": false,
+          "mustattemptcompile": true,
+          "proglang": "java",
+          "proglangid": 3,
+          "checkpoints": [
+            {
+              "id": 574,
+              "name": "",
+              "description": "cp 2 desk",
+              "ordering": 0,
+              "marks": 7
+            },
+            {
+              "id": 575,
+              "name": "",
+              "description": "a cp desc",
+              "ordering": 1,
+              "marks": 5,
+              "tests": [
+                {
+                  "id": 1011,
+                  "description": "a test desc",
+                  "gradeonly": false,
+                  "ioastext": false,
+                  "input": "i.txt",
+                  "output": "o.txt",
+                  "outputerr": "0",
+                  "ordering": 0,
+                  "marks": 2
+                },
+                {
+                  "id": 1012,
+                  "description": "test2 desc",
+                  "gradeonly": true,
+                  "ioastext": false,
+                  "input": "i2.txt",
+                  "output": "o2.txt",
+                  "outputerr": "e2.txt",
+                  "ordering": 1,
+                  "marks": 2
+                },
+                {
+                  "id": 1013,
+                  "description": "test0 desc",
+                  "gradeonly": true,
+                  "ioastext": false,
+                  "input": "0",
+                  "output": "0",
+                  "outputerr": "0",
+                  "ordering": 2,
+                  "marks": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "contextid": 42,
+          "assignname": "submit tester",
+          "intro": "for testing submit button press required and submit statement acceptance\u003cbr\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e",
+          "duedate": "1426867200",
+          "funcpercent": 100,
+          "spectestonly": false,
+          "mustattemptcompile": true,
+          "proglang": "java",
+          "proglangid": 3
+        }
+      ]
+    }
+  ]
+}
+
+
